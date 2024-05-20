@@ -3,7 +3,7 @@
 
   <h1>Diabetes Prediction App 🧑‍⚕️</h1>
 
-![ML](/banner_img.png)
+![Banner Image](assets/banner_img.png)
 
   <p>
 A machine learning web application built using Streamlit that predicts whether or not a patient has diabetes considering multiple health parameters such as Blood Pressure, Insulin & Glucose Level, BMI (Body Mass Index), Age, Pregnancies etc.
