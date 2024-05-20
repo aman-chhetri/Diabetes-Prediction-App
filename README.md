@@ -11,7 +11,7 @@ A machine learning web application built using Streamlit that predicts whether o
   
  
  <h4>
-    <a href="https://github.com/aman-chhetri/Diabetes-Prediction-App/">View Demo</a>
+    <a href="https://diabetes-prediction-app-v1.streamlit.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/aman-chhetri/Diabetes-Prediction-App/blob/main/README.md">Documentation</a>
   <span> · </span>
